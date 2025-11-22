@@ -5,7 +5,7 @@ This project analyzes customer sentiment from call center transcripts using Pyth
 Developed in **Jupyter Notebook via Anaconda**, it explores emotional trends, agent performance, and actionable insights for improving customer service quality.
 
 ## 🚀 Project Summary
-This project implements an end-to-end sentiment analysis pipeline for call center transcripts. By leveraging Python and NLP libraries, it processes customer interactions to extract actionable business intelligence. The analysis identifies key drivers of customer satisfaction, evaluates agent and process performance, and provides data-backed recommendations to enhance service quality, optimize resource allocation, and improve the overall customer experience.
+This project implements an end-to-end sentiment analysis pipeline for call center transcripts. By leveraging Python's NLP libraries, data analysis stack (pandas, NumPy) and visualization tools (Matplotlib, Seaborn, Plotly) to processes customer interactions and extract actionable business intelligence. The analysis identifies key drivers of customer satisfaction, evaluates agent and process performance, and provides data-backed recommendations to enhance service quality, optimize resource allocation, and improve the overall customer experience.
 
 ### 💡 Two Major Conclusions:
 ❌ Chatbot Failure in Billing: The chatbot handling billing inquiries resulted in the lowest sentiment score (2.14/5), identifying a critical, specific point of failure in the customer service process.
