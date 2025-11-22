@@ -1,7 +1,7 @@
 # 📞 Call Center Sentiment Analysis
 
 ## 🧠 Overview
-This project analyzes customer sentiment from call center transcripts using Python and AI libraries.  
+This project analyzes customer sentiment from call center transcripts using AI and Python libraries.  
 Developed in **Jupyter Notebook via Anaconda**, it explores emotional trends, agent performance, and actionable insights for improving customer service quality.
 
 ## 🚀 Project Summary
