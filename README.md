@@ -10,7 +10,7 @@ This project implements an end-to-end sentiment analysis pipeline for call cente
 ### 💡 Two Major Conclusions:
 ❌ Chatbot Failure in Billing: The chatbot handling billing inquiries resulted in the lowest sentiment score (2.14/5), identifying a critical, specific point of failure in the customer service process.
 
-⏱️ SLA Adherence is Critical: Calls that failed to meet the Service Level Agreement (Below SLA) had a significantly lower sentiment score (-0.32 points), proving that slow resolution times have a direct and negative impact on customer satisfaction.
+⏱️ SLA Adherence is Critical: Calls that failed to meet the Service Level Agreement (Outside SLA) had a significantly lower sentiment score (-0.32 points), proving that slow resolution times have a direct and negative impact on customer satisfaction.
 
 
 
