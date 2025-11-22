@@ -7,10 +7,10 @@ Developed in **Jupyter Notebook via Anaconda**, it explores emotional trends, ag
 ## 🚀 Project Summary
 This project implements an end-to-end sentiment analysis pipeline for call center transcripts. By leveraging Python and NLP libraries, it processes customer interactions to extract actionable business intelligence. The analysis identifies key drivers of customer satisfaction, evaluates agent and process performance, and provides data-backed recommendations to enhance service quality, optimize resource allocation, and improve the overall customer experience.
 
-** 💡 Two Major Conclusions:
-** ❌ Chatbot Failure in Billing: The chatbot handling billing inquiries resulted in the lowest sentiment score (2.14/5), identifying a critical, specific point of failure in the customer service process.
+### 💡 Two Major Conclusions:
+❌ Chatbot Failure in Billing: The chatbot handling billing inquiries resulted in the lowest sentiment score (2.14/5), identifying a critical, specific point of failure in the customer service process.
 
-** ⏱️ SLA Adherence is Critical: Calls that failed to meet the Service Level Agreement (Below SLA) had a significantly lower sentiment score (-0.32 points), proving that slow resolution times have a direct and negative impact on customer satisfaction.
+⏱️ SLA Adherence is Critical: Calls that failed to meet the Service Level Agreement (Below SLA) had a significantly lower sentiment score (-0.32 points), proving that slow resolution times have a direct and negative impact on customer satisfaction.
 
 
 
